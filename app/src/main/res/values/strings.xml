@@ -1,6 +1,7 @@
 <resources>
     <string name="app_name">Da vinci</string>
     <string name="action_settings">Settings</string>
+    <string name="qoute_title">Quotes</string>
     <string name="qoute1">Necessity is the mistress and guide of nature. </string>
     <string name="qoute2">He who possesses most must be most afraid of loss. </string>
     <string name="qoute3">Anyone who conducts an argument by appealing to authority is not using his intelligence; he is just using his memory.  </string>
