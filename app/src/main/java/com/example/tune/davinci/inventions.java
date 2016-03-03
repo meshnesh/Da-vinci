@@ -7,7 +7,7 @@ import android.widget.Button;
 /**
  * Created by tune on 03/03/16.
  */
-public class invetions extends AppCompatActivity {
+public class inventions extends AppCompatActivity {
     Button button;
 
     @Override
