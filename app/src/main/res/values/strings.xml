@@ -13,8 +13,21 @@
     <string name="qoute9">Nothing can be loved or hated unless it is first understood. </string>
 
 
-
+//about
     <string name="about">NAME: Leonardo di ser Piero da Vinci, more commonly Leonardo da Vinci. </string>
 
     <string name="about1"> Was a leading artist and intellectual of the Italian Renaissance who is known for his enduring works "The Last Supper" and "Mona Lisa". </string>
+
+
+//biography
+    <string name="biography_title">Biography. </string>
+    <string name="biography_content">
+        Born on April 15, 1452, in Vinci, Italy, Leonardo da Vinci was the epitome of a “Renaissance man.” Possessor of a curious mind and keen intellect, da Vinci studied the laws of science and nature, which greatly informed his work as a painter, sculptor, architect, inventor, military engineer and draftsman. His ideas and body of work—which includes "Virgin of the Rocks," "The Last Supper" and "Mona Lisa"—have influenced countless artists and made da Vinci a leading light of the Italian Renaissance.
+
+        Young Leonardo received little formal education beyond basic reading, writing and mathematics instruction, but his artistic talents were evident from an early age. Around the age of 14, da Vinci began a lengthy apprenticeship with the noted artist Andrea del Verrocchio in Florence. He learned a wide breadth of technical skills including metalworking, leather arts, carpentry, drawing, painting and sculpting. His earliest known dated work—a pen-and-ink drawing of a landscape in the Arno valley—was sketched in 1473.
+
+        At the age of 20, da Vinci qualified for membership as a master artist in Florence’s Guild of Saint Luke and established his own workshop. However, he continued to collaborate with his teacher for an additional five years. It is thought that Verrocchio completed his “Baptism of Christ” around 1475 with the help of his student, who painted part of the background and the young angel holding the robe of Jesus. According to Lives of the Most Excellent Painters, Sculptors and Architects, written around 1550 by artist Giorgio Vasari, Verrocchio was so humbled by the superior talent of his pupil that he never picked up a paintbrush again. Most scholars, however, dismiss Vasari’s account as apocryphal.
+        Florentine court records show that in 1476 da Vinci and four other young men were charged with sodomy, a crime punishable by exile or even death. Although da Vinci was acquitted, his whereabouts went entirely undocumented for the following two years
+
+    </string>
 </resources>
