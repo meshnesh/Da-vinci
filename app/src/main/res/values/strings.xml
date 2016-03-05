@@ -16,7 +16,7 @@
 //about
     <string name="about">NAME: Leonardo di ser Piero da Vinci, more commonly Leonardo da Vinci. </string>
 
-    <string name="about1"> Was a leading artist and intellectual of the Italian Renaissance who is known for his enduring works "The Last Supper" and "Mona Lisa". </string>
+    <string name="about1"> Was a leading artist and intellectual of the Italian Renaissance who is known for his enduring works "The Last Supper" and "Mona Lisa". </string>.
 
 
 //biography
@@ -30,4 +30,7 @@
         Florentine court records show that in 1476 da Vinci and four other young men were charged with sodomy, a crime punishable by exile or even death. Although da Vinci was acquitted, his whereabouts went entirely undocumented for the following two years
 
     </string>
+
+
+
 </resources>

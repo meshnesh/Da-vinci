@@ -13,20 +13,38 @@
         android:layout_gravity="center_horizontal" >
 
 
+
         <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
             android:orientation="vertical" android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:weightSum="1">
+            <!--<android.support.v7.widget.Toolbar-->
+                <!--android:id="@+id/toolbar"-->
+                <!--android:layout_width="match_parent"-->
+                <!--android:layout_height="?attr/actionBarSize"-->
+                <!--android:background="#C80000"-->
+                <!--/>-->
 
 
             <TextView
-                android:layout_width="wrap_content"
+                android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:paddingBottom="10dp"
                 android:textAppearance="?android:attr/textAppearanceLarge"
                 android:text="@string/biography_title"
                 android:id="@+id/textView9"
-                android:layout_gravity="center_horizontal" />
+                android:background="#C80000"
+                android:textSize="35dp"
+                android:visibility="visible"
+                android:translationZ="5dp" />
+
+            <android.support.design.widget.CollapsingToolbarLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+            </android.support.design.widget.CollapsingToolbarLayout>
+
+
 
 
             <TextView
