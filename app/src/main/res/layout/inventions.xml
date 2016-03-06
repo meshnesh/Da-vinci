@@ -1,46 +1,46 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    android:orientation="vertical" android:layout_width="match_parent"
-    android:layout_height="match_parent">
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:stretchColumns="1">
+
+    <TableRow>
+
+       <ImageView
+           android:layout_width="200dp"
+           android:padding="5dp"
+           android:layout_height="150dp"
+           android:src="@drawable/bla" />
+        <ImageView
+            android:layout_width="200dp"
+            android:layout_height="150dp"
+            android:padding="5dp"
+            android:src="@drawable/twerk"/>
+    </TableRow>
+    <TableRow>
+
+        <ImageView
+            android:layout_width="200dp"
+            android:padding="5dp"
+            android:layout_height="120dp"
+            android:src="@drawable/BLANKETS" />
+        <ImageView
+            android:layout_width="200dp"
+            android:padding="5dp"
+            android:layout_height="120dp"
+            android:src="@drawable/smile"/>
+    </TableRow>
 
 
 
 
-    <ImageView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:id="@+id/imageView4"
-        android:layout_gravity="center_horizontal"
-        android:src="@drawable/davinci" />
-
-    <ScrollView
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:id="@+id/horizontalScrollView">
-
-
-        <RelativeLayout
+        <ImageView
+            android:id="@+id/smile"
             android:layout_width="match_parent"
-            android:layout_height="match_parent">
+            android:padding="5dp"
+            android:layout_height="match_parent"
+            android:src="@drawable/wine" />
 
-            <ImageView
-                android:layout_width="370dp"
-                android:layout_height="match_parent"
-                android:id="@+id/imageView3"
-                android:src="@drawable/davinci" />
 
-            <ImageView
-                android:layout_width="370dp"
-                android:layout_height="match_parent"
-                android:id="@+id/imageView2"
-                android:layout_gravity="center_horizontal" />
-            <ImageView
-                android:layout_width="370dp"
-                android:layout_height="match_parent"
-                android:id="@+id/imageView6"
-                android:layout_gravity="center_horizontal" />
 
-        </RelativeLayout>
-    </ScrollView>
-
-</LinearLayout>
+</TableLayout>

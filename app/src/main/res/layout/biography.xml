@@ -34,9 +34,11 @@
                 android:text="@string/biography_title"
                 android:id="@+id/textView9"
                 android:background="#C80000"
-                android:textSize="35dp"
+                android:textSize="35sp"
                 android:visibility="visible"
-                android:translationZ="5dp" />
+                android:paddingStart="5dp"
+                android:padding="10dp"
+                android:paddingTop="0dp" />
 
             <android.support.design.widget.CollapsingToolbarLayout
                 android:layout_width="match_parent"
@@ -52,7 +54,7 @@
                 android:layout_height="wrap_content"
                 android:textAppearance="?android:attr/textAppearanceLarge"
                 android:text="@string/biography_content"
-                android:padding="5dp"
+                android:padding="10dp"
                 android:id="@+id/textView10"
                 android:layout_gravity="center_horizontal" />
 
